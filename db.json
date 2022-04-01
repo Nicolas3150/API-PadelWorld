@@ -1,0 +1,74 @@
+[
+    {
+        "nombre": "Paleta de Padel Adidas",
+        "precio": 34000,
+        "id": 1,
+        "tipo": "Paletas",
+        "img": "img/paleta_adidas_1.jpg",
+        "stock": 0
+    },
+    {
+        "nombre": "Paleta de Padel Royal",
+        "precio": 26999,
+        "id": 2,
+        "tipo": "Paletas",
+        "img": "img/paleta_royal_1.jpg",
+        "stock": 4
+    },
+    {
+        "nombre": "Presurizador Pelotas de Padel",
+        "precio": 4790,
+        "id": 3,
+        "tipo": "Accesorios",
+        "img": "img/presurizador.jpg",
+        "stock": 6
+    },
+    {
+        "nombre": "Pelota de Padel Penn x3",
+        "precio": 1169,
+        "id": 4,
+        "tipo": "Pelotas",
+        "img": "img/pelotasx3.jpg",
+        "stock": 100
+    },
+    {
+        "nombre": "Xgrip Padel Agarre",
+        "precio": 4999,
+        "id": 5,
+        "tipo": "Accesorios",
+        "img": "img/xgrip.jpg",
+        "stock": 6
+    },
+    {
+        "nombre": "Remera Royal",
+        "precio": 3600,
+        "id": 6,
+        "tipo": "Indumentaria",
+        "img": "img/war-gris.jpg",
+        "stock": 13
+    },
+    {
+        "nombre": "Shockout Antivibradores",
+        "precio": 2039,
+        "id": 7,
+        "tipo": "Accesorios",
+        "img": "img/antivibrador.jpg",
+        "stock": 41
+    },
+    {
+        "nombre": "Paleta Head Pro Challenge",
+        "precio": 18000,
+        "id": 8,
+        "tipo": "Paletas",
+        "img": "img/paleta_head_1.jpg",
+        "stock": 11
+    },
+    {
+        "nombre": "Bolso DF",
+        "precio": 2790,
+        "id": 9,
+        "tipo": "Accesorios",
+        "img": "img/bolso_DF.jpg",
+        "stock": 3
+    }
+]
